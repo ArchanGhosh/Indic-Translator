@@ -4,7 +4,7 @@ A model that can interpret English text from any image and translate it to their
 (limited to bengali for this demonstration).
 
 
-[Project Image](https://drive.google.com/file/d/1cCeqOOYJwvgU0MUuehnOa-0djGi9RciB/view?usp=sharing)
+![Project Image](https://drive.google.com/file/d/1cCeqOOYJwvgU0MUuehnOa-0djGi9RciB/view?usp=sharing)
 
 
 
