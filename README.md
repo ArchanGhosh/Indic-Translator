@@ -4,7 +4,7 @@ A model that can interpret English text from any image and translate it to their
 (limited to bengali for this demonstration).
 
 
-<img src="https://github.com/ArchanGhosh/Indic-Translator--DSC-WOW/blob/main/ENG-BENGALI/IndicTranslator.jpg">
+
 
 
 
